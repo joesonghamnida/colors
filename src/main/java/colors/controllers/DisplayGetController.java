@@ -30,7 +30,16 @@ public class DisplayGetController {
 
         BufferedImage image = ImageIO.read(file);
 
-        
+        //measure image A size
+        //measure image B size
+
+        //cut equivalent parts out of image A and image B (largest size possible)
+
+        //combine the two
+
+        //output result
+
+
         return ("home");
     }
 }
